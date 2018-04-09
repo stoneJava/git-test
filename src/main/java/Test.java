@@ -5,4 +5,8 @@
  * @version 创建时间：2018/4/8.
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("合并测试");
+    }
+
 }
